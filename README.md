@@ -1,5 +1,5 @@
 # CSC4110-assignment1
-# Github
-# Git
+# Github and Git
+
 **Tyler Howard**
 **fz2121**
